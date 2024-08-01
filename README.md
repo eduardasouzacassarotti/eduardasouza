@@ -10,4 +10,6 @@ Meu nome é Eduarda Souza
 
 eduarda.cassarotti@escola.pr.gov.br
 @eduarda.cassarotti
-![](https://media1.tenor.com/m/kPBGULXYKz8AAAAC/%D8%A7%D9%84%D9%86%D8%B5%D8%B1-ronaldo-al-nassr.gif)
+![](https://media1.tenor.com/m/xwWeEXKj59MAAAAd/minions-valentines-day.gif)
+
+
