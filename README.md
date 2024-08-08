@@ -9,7 +9,6 @@ Meu nome é Eduarda Souza
 ### Você pode entrar em contato comigo:
 
 eduarda.cassarotti@escola.pr.gov.br
-@eduarda.cassarotti
+@eduardacassarotti
 ![](https://media1.tenor.com/m/aPgTU-Z9j1MAAAAd/funny-dogs-cute.gif)
-
 
