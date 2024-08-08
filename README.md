@@ -1,14 +1,14 @@
-### Boas vindas ao meu perfil:
+### Boas vindas ao meu perfil :blue_heart
 
-Meu nome é Eduarda Souza
+Meu nome é Eduarda Cassarotti
 
-- Estou estudando na [Alura](https://www.alura.com.br) 
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Você pode entrar em contato comigo:
+### Você pode entrar em contato comigo :mailbox
 
 eduarda.cassarotti@escola.pr.gov.br
-@eduardacassarotti
-![](https://media1.tenor.com/m/aPgTU-Z9j1MAAAAd/funny-dogs-cute.gif)
+@eduarda.cassarotti
 
+![](https://media1.tenor.com/m/aPgTU-Z9j1MAAAAd/funny-dogs-cute.gif)
